@@ -27,6 +27,7 @@ plyer>=2.1.0  # For cross-platform desktop notifications
 
 # Security
 cryptography>=41.0.0
+pyotp>=2.9.0  # For TOTP (Two-Factor Authentication)
 
 # Development and testing
 pytest>=7.4.0
